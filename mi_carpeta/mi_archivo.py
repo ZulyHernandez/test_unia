@@ -6,3 +6,9 @@ def resta(a,b):
     
 def multiplicar(x,y):
     return x*y
+
+def dividir(x,y):
+    return x*y
+
+def potencia(a,b):
+    return a**b
